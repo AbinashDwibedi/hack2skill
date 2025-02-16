@@ -3,7 +3,7 @@
 
 - if you don't have nvm installed then run this command
 
-## for linux
+## nvm for linux
 ```bash
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.4/install.sh | bash
     source ~/.bashrc  
@@ -11,10 +11,10 @@
     source ~/.profile 
 
 ```
-## for windows 
+## nvm for windows 
 - Download the NVM Windows installer
 
-## download node 22 
+## download node 22 using nvm
 ```bash 
     nvm install 22
     nvm alias default 22
